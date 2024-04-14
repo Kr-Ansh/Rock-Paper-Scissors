@@ -1,5 +1,3 @@
-package RPS;
-
 import java.util.*;
 
 public class RPS {
